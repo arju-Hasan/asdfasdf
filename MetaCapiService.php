@@ -11,6 +11,7 @@ class MetaCapiService
 {
     /**
      * Get Meta Pixel ID from database or default
+     * Get Meta Pixel ID from database or default
      */
     public static function getPixelId(): string
     {
